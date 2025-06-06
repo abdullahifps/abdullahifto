@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdullahifto
+- 👋 Hi, I’m @abdullahifps
 - 👀 I’m interested in software engineering, teaching, helping others
 - 🌱 I’m currently learning Computer Science @ UC Berkeley
 - 💞️ I’m looking to collaborate on ...
